@@ -1,0 +1,24 @@
+{
+    "name": "ym\/permission-hyperf",
+    "description": "hyperf Permission Component",
+    "keywords": [
+        "ym",
+        "hyperf",
+        "permission",
+        "permissions",
+        "roles"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ym",
+            "email": "13528685024@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ym\\PermissionHyperf\\": "src"
+        }
+    }
+}
