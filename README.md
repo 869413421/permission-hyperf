@@ -1,6 +1,6 @@
 <h1 align="center"> permission-hyperf </h1>
 
-<p align="center"> hyperf permission Component[D[D[D[D[D[D[D[c.</p>
+<p align="center"> hyperf permission Component</p>
 
 
 ## Installing
